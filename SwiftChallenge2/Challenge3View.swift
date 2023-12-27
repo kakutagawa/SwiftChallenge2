@@ -11,15 +11,10 @@ struct Challenge3Profile: Identifiable {
     let id = UUID()
     var name: String
     var age: Int
-
-    init(name: String, age: Int) {
-        self.name = name
-        self.age = age
-    }
 }
 
 struct Challenge3View: View {
-    let users:[Challenge3Profile] = (1...100).map {
+    let users: [Challenge3Profile] = (1...100).map {
         Challenge3Profile(name: "ユーザー\($0)", age: $0)
     }
     var body: some View {
