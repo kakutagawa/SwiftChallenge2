@@ -17,6 +17,8 @@
 		1D48A7E62B3875A5007FE6A7 /* Challenge2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A7E52B3875A5007FE6A7 /* Challenge2View.swift */; };
 		1D48A7EA2B3C5E64007FE6A7 /* Challenge3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A7E92B3C5E64007FE6A7 /* Challenge3View.swift */; };
 		1D48A7EC2B3C6514007FE6A7 /* Challenge4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A7EB2B3C6514007FE6A7 /* Challenge4View.swift */; };
+		1D48A7F22B3EB941007FE6A7 /* Challenge5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A7F12B3EB941007FE6A7 /* Challenge5View.swift */; };
+		1D48A7F42B4448B6007FE6A7 /* Challenge5View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A7F32B4448B6007FE6A7 /* Challenge5View2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		1D48A7E52B3875A5007FE6A7 /* Challenge2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge2View.swift; sourceTree = "<group>"; };
 		1D48A7E92B3C5E64007FE6A7 /* Challenge3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge3View.swift; sourceTree = "<group>"; };
 		1D48A7EB2B3C6514007FE6A7 /* Challenge4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge4View.swift; sourceTree = "<group>"; };
+		1D48A7F12B3EB941007FE6A7 /* Challenge5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge5View.swift; sourceTree = "<group>"; };
+		1D48A7F32B4448B6007FE6A7 /* Challenge5View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge5View2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				1D48A7E52B3875A5007FE6A7 /* Challenge2View.swift */,
 				1D48A7E92B3C5E64007FE6A7 /* Challenge3View.swift */,
 				1D48A7EB2B3C6514007FE6A7 /* Challenge4View.swift */,
+				1D48A7F12B3EB941007FE6A7 /* Challenge5View.swift */,
+				1D48A7F32B4448B6007FE6A7 /* Challenge5View2.swift */,
 				1D48A7BF2B386E86007FE6A7 /* Assets.xcassets */,
 				1D48A7C12B386E86007FE6A7 /* Preview Content */,
 			);
@@ -270,6 +276,8 @@
 				1D48A7BC2B386E85007FE6A7 /* SwiftChallenge2App.swift in Sources */,
 				1D48A7E62B3875A5007FE6A7 /* Challenge2View.swift in Sources */,
 				1D48A7EA2B3C5E64007FE6A7 /* Challenge3View.swift in Sources */,
+				1D48A7F42B4448B6007FE6A7 /* Challenge5View2.swift in Sources */,
+				1D48A7F22B3EB941007FE6A7 /* Challenge5View.swift in Sources */,
 				1D48A7EC2B3C6514007FE6A7 /* Challenge4View.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
