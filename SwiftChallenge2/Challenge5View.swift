@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Todo: Codable {
+struct Todo: Codable, Hashable {
     var id: Int
     var userId: Int
     var title: String
