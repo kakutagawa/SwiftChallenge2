@@ -20,6 +20,7 @@
 		1D48A7F22B3EB941007FE6A7 /* Challenge5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A7F12B3EB941007FE6A7 /* Challenge5View.swift */; };
 		1D48A7F42B4448B6007FE6A7 /* Challenge5View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A7F32B4448B6007FE6A7 /* Challenge5View2.swift */; };
 		1D48A8342B483902007FE6A7 /* ToDoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A8332B483902007FE6A7 /* ToDoDetailView.swift */; };
+		1D48A86C2B4C3FEE007FE6A7 /* ToDoApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D48A86B2B4C3FEE007FE6A7 /* ToDoApplication.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		1D48A7F12B3EB941007FE6A7 /* Challenge5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge5View.swift; sourceTree = "<group>"; };
 		1D48A7F32B4448B6007FE6A7 /* Challenge5View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge5View2.swift; sourceTree = "<group>"; };
 		1D48A8332B483902007FE6A7 /* ToDoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailView.swift; sourceTree = "<group>"; };
+		1D48A86B2B4C3FEE007FE6A7 /* ToDoApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoApplication.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				1D48A7F12B3EB941007FE6A7 /* Challenge5View.swift */,
 				1D48A7F32B4448B6007FE6A7 /* Challenge5View2.swift */,
 				1D48A8332B483902007FE6A7 /* ToDoDetailView.swift */,
+				1D48A86B2B4C3FEE007FE6A7 /* ToDoApplication.swift */,
 				1D48A7BF2B386E86007FE6A7 /* Assets.xcassets */,
 				1D48A7C12B386E86007FE6A7 /* Preview Content */,
 			);
@@ -281,6 +284,7 @@
 				1D48A8342B483902007FE6A7 /* ToDoDetailView.swift in Sources */,
 				1D48A7EA2B3C5E64007FE6A7 /* Challenge3View.swift in Sources */,
 				1D48A7F42B4448B6007FE6A7 /* Challenge5View2.swift in Sources */,
+				1D48A86C2B4C3FEE007FE6A7 /* ToDoApplication.swift in Sources */,
 				1D48A7F22B3EB941007FE6A7 /* Challenge5View.swift in Sources */,
 				1D48A7EC2B3C6514007FE6A7 /* Challenge4View.swift in Sources */,
 			);
